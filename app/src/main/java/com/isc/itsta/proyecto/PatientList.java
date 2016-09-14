@@ -72,7 +72,7 @@ public class PatientList extends AppCompatActivity {
 
     private void showPatient(int position) {
         Intent intent = new Intent(this, Patient.class);
-        intent.putExtra("_id", position+"");
+        intent.putExtra("_id", position);
         startActivity(intent);
     }
 

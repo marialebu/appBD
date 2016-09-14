@@ -19,7 +19,7 @@ public class AppControl {
 
     public AppControl(){
         patients.add(new Patient());
-        patients.get(0).setAge(21);
+        patients.get(0).setAge(22);
         patients.get(0).setName("Luis Felipe Diaz Chica");
         patients.get(0).setBegin(new Date());
         patients.get(0).setMan(true);
