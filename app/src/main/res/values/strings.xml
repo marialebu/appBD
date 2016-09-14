@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Proyecto</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="usuario">Usuario</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="requerido">Este campo es requerido</string>
+    <string name="usuario_invalido">Usuario invalido</string>
+    <string name="contrasena_invalida">Contraseña Incorrecta</string>
+    <string name="title_activity_patient_list">Pacientes</string>
+    <string name="title_activity_patient">Paciente</string>
+
+</resources>
